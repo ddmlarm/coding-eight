@@ -4,7 +4,7 @@ Southern Utah University
 CSIS-1300-01-SP23: Programming with Python
 
 Coding Eight 
-GitHub: 
+GitHub: https://github.com/ddmlarm/coding-eight
 Requirements: StatesANC.txt located in folder with state_analytics.py 
 """
 # STATE INTO DICTIONARY
